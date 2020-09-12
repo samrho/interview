@@ -6,6 +6,6 @@
   "author": "Sam Rho <seungnam2@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
